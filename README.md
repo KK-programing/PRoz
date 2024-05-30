@@ -1,0 +1,1 @@
+Szeregowanie zadań algorytmem genetycznym
